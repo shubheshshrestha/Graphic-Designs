@@ -1,6 +1,6 @@
 # Graphic Designs — Portfolio
 
-This repository showcases a collection of graphic designs.  
+This repository showcases a collection of graphic designs. 
 The projects include promotional posters, seasonal sales campaigns, and social media creatives designed for marketing and branding purposes.  
 
 ## Projects
@@ -21,9 +21,12 @@ The projects include promotional posters, seasonal sales campaigns, and social m
    Flash sale poster showcasing key features and specifications of an interactive smart board for promotional campaigns.  
 
 6. **V10 Wolf Warrior Flash Sale Poster**  
-   Gaming mouse spotlight poster with dynamic lighting, bold typography, and a flash sale campaign aesthetic.  
+   Gaming mouse spotlight poster with dynamic lighting, bold typography, and a flash sale campaign aesthetic.
+
+   (Still updating future designs)
 
 ## Tools Used
 - Adobe Photoshop  
-- Adobe Illustrator  
+- Adobe Illustrator
+- Adobe After Effects
 - Canva   
