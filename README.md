@@ -1,6 +1,6 @@
 # Graphic Designs — Portfolio
 
-This repository showcases a collection of graphic design works created for The Volt Vest and M.M. Electronics.  
+This repository showcases a collection of graphic designs.  
 The projects include promotional posters, seasonal sales campaigns, and social media creatives designed for marketing and branding purposes.  
 
 ## Projects
